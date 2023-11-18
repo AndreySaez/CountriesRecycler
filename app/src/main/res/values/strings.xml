@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CountriesRecycler</string>
+    <string name="country_template">%1$d. %2$s</string>
 </resources>
